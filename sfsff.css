@@ -26,7 +26,7 @@ body {
 }
 
 .header {
-    background: #ff0;
+    background: #f000;
     color: Black;
     padding: 10px;
     text-align: center;
@@ -68,7 +68,7 @@ h1 {
 
 .price {
     font-size: 28px;
-    color: #ffbf00;
+    color: #160f0f;
     margin: 20px 0;
     font-weight: bold;
 }
