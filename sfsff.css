@@ -63,7 +63,7 @@ h1 {
     border-radius: 0px;
     color: #999;
     overflow: hidden;
-    border: 2px solid #ff7;
+    border: 2px solid #e5fff8;
 }
 
 .price {
@@ -80,7 +80,7 @@ h1 {
 }
 
 .success-message {
-    color: #880;
+    color: #666;
     font-size: 16px;
     margin: 10px 0;
     display: none;
